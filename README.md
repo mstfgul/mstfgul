@@ -38,7 +38,7 @@ I am an aspiring **Data Engineer** with a background in **Philosophy**, and a ke
 I am open to collaborating on projects that involve **data engineering**, **data analysis**, and **AI** applications, especially in the context of social sciences. If you’re working on something in these areas, feel free to get in touch!
 
 ## 📫 How to Reach Me:
-- **Email:** [mstfgul@gmail.com]
+- **Email:** [mstfgul00@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/mustafa-gul-548b82228/]
 
 ---
