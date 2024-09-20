@@ -39,7 +39,7 @@ I am open to collaborating on projects that involve **data engineering**, **data
 
 ## 📫 How to Reach Me:
 - **Email:** [mstfgul00@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/mustafa-gul-548b82228/]
+- **LinkedIn:** [https://www.linkedin.com/in/mustafa-gul00/]
 
 ---
 
