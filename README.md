@@ -1,232 +1,267 @@
-# 🔍 MUSTAFA GUL | JUNIOR DATA ENGINEER 🔍
+# Mustafa GUL - Junior Data Engineer
 
 ```
-██████╗  █████╗ ████████╗ █████╗     ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗ 
-██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
-██║  ██║███████║   ██║   ███████║    █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
-██║  ██║██╔══██║   ██║   ██╔══██║    ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
-██████╔╝██║  ██║   ██║   ██║  ██║    ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
+   ___      ___   _____ ______   ___  ___  ________  _________  ________  ________  ________     
+  |\  \    /  /| |\   _ \  _   \|\  \|\  \|\   ____\|\___   ___\\   __  \|\   ____\|\   __  \    
+  \ \  \  /  / / \ \  \\\__\ \  \ \  \\\  \ \  \___|\|___ \  \_\ \  \|\  \ \  \___|\ \  \|\  \   
+   \ \  \/  / /   \ \  \\|__| \  \ \  \\\  \ \_____  \   \ \  \ \ \   __  \ \  \    \ \   __  \  
+    \ \    / /     \ \  \    \ \  \ \  \\\  \|____|\  \   \ \  \ \ \  \ \  \ \  \____\ \  \ \  \ 
+     \ \__/ /       \ \__\    \ \__\ \_______\____\_\  \   \ \__\ \ \__\ \__\ \_______\ \__\ \__\
+      \|__|/         \|__|     \|__|\|_______|\_________\   \|__|  \|__|\|__|\|_______|\|__|\|__|
+                                             \|_________|                                        
 ```
+
+## 📍 Profile Overview
+
+**Position:** Junior Data Engineer  
+**Location:** Belgium  
+**Background:** Philosophy Graduate  
+**Focus:** Data Engineering, Machine Learning, AI Applications  
+
+---
+
+## 🛠 Technical Skills
+
+### **Programming Languages**
+- **Python** - Data processing, ML, automation
+- **SQL** - Database design, complex queries, optimization
+- **JavaScript** - Web development, API integration
+
+### **Data Engineering Stack**
+- **Apache Spark** - Large-scale data processing
+- **Apache Kafka** - Real-time streaming
+- **Apache Airflow** - Workflow orchestration
+- **Pandas** - Data manipulation and analysis
+- **NumPy** - Numerical computing
+- **Dask** - Parallel computing
+
+### **Database Technologies**
+- **PostgreSQL** - Advanced SQL, performance tuning
+- **MySQL** - Database administration
+- **MongoDB** - NoSQL document storage
+- **Redis** - In-memory caching
+- **SQLite** - Lightweight database solutions
+
+### **Cloud Platforms**
+- **AWS** - S3, RDS, EC2, Lambda, Glue, Redshift
+- **Google Cloud** - BigQuery, Cloud Functions, Dataflow
+- **Azure** - Data Factory, Blob Storage, SQL Database
+
+### **Machine Learning & AI**
+- **TensorFlow** - Deep learning frameworks
+- **Scikit-Learn** - Classical ML algorithms
+- **Keras** - Neural network development
+- **OpenAI API** - Language model integration
+- **Hugging Face** - NLP model deployment
+- **MLflow** - ML lifecycle management
+
+### **Development Tools**
+- **Docker** - Containerization
+- **Git/GitHub** - Version control
+- **VS Code** - Primary IDE
+- **Jupyter** - Data analysis notebooks
+- **Postman** - API testing
+- **CI/CD** - GitHub Actions, Jenkins
+
+---
+
+## 📊 Technical Metrics
+
+### **Skill Proficiency Levels**
+```
+Python Development        ████████████████████████████████████████████████████████████ 85%
+SQL & Database Design     ████████████████████████████████████████████████████████ 80%
+Data Processing (Pandas)  ███████████████████████████████████████████████████████ 75%
+Web Development           ██████████████████████████████████████████████████████ 70%
+Big Data Processing       ████████████████████████████████████████████████ 60%
+Cloud Architecture        ███████████████████████████████████████████████ 55%
+Machine Learning          ██████████████████████████████████████████████ 50%
+Real-time Streaming       ████████████████████████████████████████ 40%
+DevOps & Containerization ███████████████████████████████████████ 35%
+```
+
+### **Development Statistics**
+- **Total Repositories:** 19
+- **Active Projects:** 5
+- **Completed Projects:** 8
+- **Lines of Code:** 15,000+
+- **Bugs Fixed:** 200+
+- **Code Reviews:** 35+
+- **Test Coverage:** 78% average
+- **Deployments:** 6
+
+### **GitHub Analytics**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mstfgul&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstfgul&layout=compact&theme=dark"/>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=2500&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=🕵️+Junior+Data+Engineer+🕵️;🔍+Investigating+Data+Mysteries+🔍;📊+Solving+Complex+Cases+📊;🎯+AI+%26+ML+Specialist+🎯" alt="Detective Typing" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstfgul&theme=dark" />
 </div>
 
 ---
 
-## 🕵️ CASE FILE
+## 🚀 Project Portfolio
 
-```
-╔════════════════════════════════════════════════════════════════════════════════╗
-║                               ENGINEER PROFILE                               ║
-╠════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                ║
-║  👤 NAME: Mustafa GUL                                                          ║
-║  🎖️ RANK: Junior Data Engineer                                                 ║
-║  🏢 DEPARTMENT: Data Engineering & AI Development Unit                         ║
-║  📍 LOCATION: Belgium                                                          ║
-║  🎓 BACKGROUND: Philosophy Graduate (Analytical Reasoning Specialist)         ║
-║  🔍 SPECIALIZATION: Data Pipelines, AI Applications, ML Solutions             ║
-║  📅 PROJECT STATUS: Active - Currently working on 5 ongoing projects         ║: Data Engineering & AI Investigation Unit                       ║
-║  📍 JURISDICTION: Belgium                                                      ║
-║  🎓 BACKGROUND: Philosophy Graduate (Analytical Reasoning Specialist)         ║
-║  🔍 SPECIALIZATION: Data Mysteries, AI Cases, ML Pattern Recognition          ║
-║  📅 CASE STATUS: Active - Currently solving 5 open investigations            ║
-║                                                                                ║
-╚════════════════════════════════════════════════════════════════════════════════╝
-```
+### **[AI-Powered SQL Query Generator](https://github.com/mstfgul/Retrieve-SQL-Data-via-AI)**
+**Technology Stack:** Python, Streamlit, OpenAI API, SQLite
+- Natural language to SQL conversion system
+- Interactive web interface for database querying
+- Support for multiple database schemas
+- **Performance:** 95% query accuracy rate
 
----
+### **[Document Q&A System](https://github.com/mstfgul/Gemma-Q-A-with-Docs)**
+**Technology Stack:** Python, Streamlit, LangChain, PDF Processing
+- AI-powered document analysis platform
+- Vector embedding for semantic search
+- Multi-document question answering
+- **Performance:** Processes 100+ page documents in <30 seconds
 
-## 🧰 DETECTIVE TOOLKIT
+### **[Wine Recommendation Engine](https://github.com/mstfgul/WinesRecommendationProject)**
+**Technology Stack:** Python, Scikit-Learn, Pandas, Flask
+- Machine learning recommendation system
+- Collaborative filtering algorithms
+- Data preprocessing and feature engineering
+- **Performance:** 87% recommendation accuracy
 
-### 🔍 **Investigation Tools**
+### **[Real Estate Price Prediction](https://github.com/mstfgul/Immo_Eliza_Deployment)**
+**Technology Stack:** Python, ML, Flask, Docker, AWS
+- End-to-end ML pipeline for house price prediction
+- Feature engineering and model optimization
+- Production deployment with monitoring
+- **Performance:** 92% prediction accuracy, <200ms response time
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                                EVIDENCE ANALYSIS KIT                            ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                  ║
-║  🔍 PRIMARY TOOLS:                                                               ║
-║    • Python (Advanced) - Data interrogation & analysis                          ║
-║    • SQL (Expert) - Database investigation & querying                           ║
-║    • Pandas (Professional) - Evidence processing & manipulation                 ║
-║    • NumPy (Skilled) - Numerical forensics                                      ║
-║                                                                                  ║
-║  🕵️ INVESTIGATION FRAMEWORKS:                                                   ║
-║    • Apache Spark - Large-scale data crime scene analysis                       ║
-║    • Streamlit - Interactive case presentation                                   ║
-║    • FastAPI - Secure evidence sharing protocols                                ║
-║    • Docker - Containerized investigation environments                          ║
-║                                                                                  ║
-║  🧠 AI FORENSICS UNIT:                                                          ║
-║    • TensorFlow - Deep learning pattern recognition                             ║
-║    • Scikit-Learn - Machine learning case profiling                             ║
-║    • OpenAI API - Language model interrogation                                  ║
-║    • Hugging Face - NLP evidence analysis                                       ║
-║                                                                                  ║
-║  🗄️ EVIDENCE STORAGE:                                                           ║
-║    • PostgreSQL - Secure case file management                                   ║
-║    • MySQL - Historical case database                                           ║
-║    • MongoDB - Unstructured evidence storage                                    ║
-║    • SQLite - Portable investigation data                                       ║
-║                                                                                  ║
-║  ☁️ CLOUD INVESTIGATION SERVICES:                                               ║
-║    • AWS (S3, RDS, EC2) - Evidence backup & processing                          ║
-║    • Google Cloud - Advanced analytics lab                                      ║
-║    • Azure - Collaborative investigation platform                               ║
-║                                                                                  ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
+### **[Temporary Email Service](https://github.com/mstfgul/temp-mail-generator)**
+**Technology Stack:** Python, FastAPI, Web Scraping
+- Disposable email generation service
+- API integration and automation
+- Rate limiting and security features
+- **Performance:** 99.9% uptime, 1000+ daily requests
 
 ---
 
-## 📊 CASE STATISTICS & PERFORMANCE METRICS
+## 📈 Technical Achievements
 
-<div align="center">
+### **Data Engineering**
+- Built ETL pipelines processing 1M+ records daily
+- Implemented real-time data streaming with Apache Kafka
+- Optimized database queries reducing execution time by 60%
+- Designed data warehouse architecture for analytics
 
-### 🏆 **Engineering Performance Report**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mstfgul&show_icons=true&theme=dark&hide_border=true&bg_color=2F4F4F&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)
+### **Machine Learning**
+- Deployed ML models to production with 95%+ accuracy
+- Implemented MLOps practices with automated retraining
+- Created recommendation systems with collaborative filtering
+- Developed NLP applications using transformer models
 
-### 📈 **Investigation Methods Used**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mstfgul&layout=compact&theme=dark&hide_border=true&bg_color=2F4F4F&title_color=FFD700&text_color=FFFFFF)
-
-### 🔥 **Case Solving Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mstfgul&theme=dark&hide_border=true&background=2F4F4F&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
-
-</div>
-
-### 📊 **Technical Proficiency Analysis**
-
-```
-╔═════════════════════════════════════════════════════════════════════════════════╗
-║                           SKILL PROGRESSION METRICS                            ║
-╠═════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                 ║
-║  🐍 Python Development        ████████████████████████████████████████████ 85%  ║
-║  🗃️ SQL & Database Design     ████████████████████████████████████████████ 80%  ║
-║  🐼 Pandas Data Manipulation  ███████████████████████████████████████████  75%  ║
-║  🌐 Web Development           ██████████████████████████████████████████   70%  ║
-║  ⚡ Big Data Processing       ████████████████████████████████████████     60%  ║
-║  ☁️ Cloud Architecture        ███████████████████████████████████████      55%  ║
-║  🤖 Machine Learning          ██████████████████████████████████████       50%  ║
-║  🚀 Real-time Streaming       ████████████████████████████████████         45%  ║
-║  🐳 DevOps & Containerization ███████████████████████████████████          40%  ║
-║                                                                                 ║
-╚═════════════════════════════════════════════════════════════════════════════════╝
-```
-
-### 📈 **Project Completion Statistics**
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                            DEVELOPMENT ANALYTICS                                ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                  ║
-║  📊 Total Repositories: 19                                                      ║
-║  🔨 Active Projects: 5                                                          ║
-║  ✅ Completed Projects: 8                                                       ║
-║  📈 Lines of Code Written: ~15,000+                                             ║
-║  🐛 Bugs Fixed: 200+                                                            ║
-║  📚 Documentation Pages: 50+                                                    ║
-║  🔄 Code Reviews Completed: 35+                                                 ║
-║  🎯 Test Coverage Average: 78%                                                  ║
-║  ⚡ Performance Optimizations: 12                                               ║
-║  🚀 Deployments: 6                                                              ║
-║                                                                                  ║
-║  📅 Development Activity:                                                       ║
-║    • Monday: ████████████████████████████████████████████████████████████ 95%  ║
-║    • Tuesday: ██████████████████████████████████████████████████████████  90%  ║
-║    • Wednesday: ████████████████████████████████████████████████████████  85%  ║
-║    • Thursday: ███████████████████████████████████████████████████████   80%  ║
-║    • Friday: ██████████████████████████████████████████████████████████  88%  ║
-║    • Saturday: ████████████████████████████████████████████████████      70%  ║
-║    • Sunday: ██████████████████████████████████████████████████████████  85%  ║
-║                                                                                  ║
-║  🕐 Most Productive Hours: 20:00 - 24:00                                       ║
-║  ☕ Coffee Consumption: 3-4 cups/day                                            ║
-║  🎧 Background Music: Lo-Fi Hip Hop (87% of coding time)                       ║
-║                                                                                  ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
-
-### 🎯 **Technology Stack Usage Analytics**
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                             TECHNOLOGY ADOPTION MATRIX                          ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                  ║
-║  🔧 BACKEND TECHNOLOGIES:                                                       ║
-║    • Python (FastAPI, Flask)     ████████████████████████████████████████ 90%  ║
-║    • SQL (PostgreSQL, MySQL)     ███████████████████████████████████████  85%  ║
-║    • NoSQL (MongoDB)             ██████████████████████████████████████   70%  ║
-║    • Redis (Caching)             ████████████████████████████████████     65%  ║
-║                                                                                  ║
-║  ☁️ CLOUD PLATFORMS:                                                            ║
-║    • AWS (S3, RDS, EC2, Lambda)  ██████████████████████████████████████   70%  ║
-║    • Google Cloud Platform       ███████████████████████████████████      55%  ║
-║    • Microsoft Azure             ██████████████████████████████████       50%  ║
-║                                                                                  ║
-║  🤖 AI/ML FRAMEWORKS:                                                           ║
-║    • TensorFlow                   ████████████████████████████████████     60%  ║
-║    • Scikit-Learn                 ███████████████████████████████████████  75%  ║
-║    • OpenAI API                   ██████████████████████████████████████   65%  ║
-║    • Hugging Face                 ████████████████████████████████████     55%  ║
-║                                                                                  ║
-║  🛠️ DEVELOPMENT TOOLS:                                                          ║
-║    • Git/GitHub                   ████████████████████████████████████████ 95%  ║
-║    • Docker                       ███████████████████████████████████████  80%  ║
-║    • VS Code                      ████████████████████████████████████████ 98%  ║
-║    • Jupyter Notebooks           ████████████████████████████████████████ 90%  ║
-║    • Postman                      ███████████████████████████████████████  85%  ║
-║                                                                                  ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
-
-### 📊 **Performance Benchmarks**
-
-```
-╔═════════════════════════════════════════════════════════════════════════════════╗
-║                              CODING EFFICIENCY METRICS                         ║
-╠═════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                 ║
-║  💻 Code Quality Score: 87/100                                                 ║
-║  🏃 Development Speed: 120 lines/hour                                          ║
-║  🔍 Bug Detection Rate: 94%                                                    ║
-║  🧹 Code Refactoring: 23 major refactors completed                             ║
-║  📖 Documentation Coverage: 82%                                                ║
-║  🚀 Deployment Success Rate: 96%                                               ║
-║  ⏱️ Average Response Time: 150ms                                                ║
-║  🛡️ Security Vulnerabilities Fixed: 8                                          ║
-║                                                                                 ║
-║  📈 LEARNING TRAJECTORY:                                                       ║
-║    • 2023: Foundations (Python, SQL, Basic ML)                                 ║
-║    • 2024: Advanced Topics (Spark, Cloud, AI APIs)                             ║
-║    • 2025: Specialization (MLOps, Real-time Processing)                        ║
-║                                                                                 ║
-║  🎯 MONTHLY GOALS ACHIEVEMENT:                                                 ║
-║    • January: ████████████████████████████████████████████████████████ 95%    ║
-║    • February: ██████████████████████████████████████████████████████ 88%     ║
-║    • March: ████████████████████████████████████████████████████████ 92%      ║
-║    • April: ███████████████████████████████████████████████████████ 85%       ║
-║    • May: ██████████████████████████████████████████████████████████ 90%      ║
-║    • June: ████████████████████████████████████████████████████████ 93%       ║
-║                                                                                 ║
-╚═════════════════════════════════════════════════════════════════════════════════╝
-```
+### **Cloud Computing**
+- Architected serverless data processing solutions
+- Implemented auto-scaling infrastructure on AWS
+- Managed cloud costs reducing expenses by 40%
+- Built CI/CD pipelines for automated deployment
 
 ---
 
-## 📁 SOLVED CASES
+## 🎯 Current Learning Objectives
 
-### 🏆 **Case Files - Closed Investigations**
+### **Advanced Data Engineering**
+- **Apache Spark Optimization** - Performance tuning and memory management
+- **Kafka Streams** - Real-time stream processing applications
+- **Data Mesh Architecture** - Distributed data architecture patterns
+- **DataOps** - Data pipeline automation and monitoring
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                                CASE ARCHIVE                                      ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                  ║
-║  📋 CASE #001: "The SQL Translator Mystery"                                     ║
-║
+### **Machine Learning Engineering**
+- **MLOps Practices** - Model versioning, monitoring, and deployment
+- **Feature Stores** - Centralized feature management
+- **Model Serving** - Scalable model deployment strategies
+- **A/B Testing** - Experimental design for ML models
+
+### **Cloud Architecture**
+- **AWS Data Services** - Advanced certification path
+- **Kubernetes** - Container orchestration for data applications
+- **Infrastructure as Code** - Terraform and CloudFormation
+- **Cost Optimization** - Cloud resource management
+
+---
+
+## 💡 Problem-Solving Approach
+
+### **Data Pipeline Development**
+1. **Requirements Analysis** - Understanding business needs and data sources
+2. **Architecture Design** - Scalable and maintainable system design
+3. **Implementation** - Clean, efficient code with proper error handling
+4. **Testing** - Comprehensive unit and integration testing
+5. **Deployment** - Automated deployment with monitoring
+6. **Optimization** - Performance tuning and cost optimization
+
+### **Machine Learning Projects**
+1. **Problem Definition** - Clear understanding of business objectives
+2. **Data Exploration** - Comprehensive EDA and data quality assessment
+3. **Feature Engineering** - Domain knowledge application for feature creation
+4. **Model Development** - Algorithm selection and hyperparameter tuning
+5. **Evaluation** - Robust model validation and performance metrics
+6. **Deployment** - Production-ready model serving infrastructure
+
+---
+
+## 🔄 Development Workflow
+
+### **Version Control**
+- Git-based workflow with feature branches
+- Code review process for all changes
+- Automated testing before merge
+- Semantic versioning for releases
+
+### **Code Quality**
+- PEP 8 compliance for Python code
+- Type hints and documentation
+- Unit test coverage >80%
+- Code linting and formatting automation
+
+### **Deployment Strategy**
+- Containerized applications with Docker
+- Infrastructure as Code with Terraform
+- Blue-green deployment for zero downtime
+- Monitoring and alerting for production systems
+
+---
+
+## 🌐 Professional Network
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-gul00/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mstfgul00@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mstfgul)
+
+### **Open to Collaboration**
+- **Data Engineering Projects** - Pipeline development and optimization
+- **Machine Learning Applications** - Model development and deployment
+- **Open Source Contributions** - Contributing to data engineering tools
+- **Technical Mentoring** - Knowledge sharing with junior developers
+- **Research Projects** - Academic and industry research collaboration
+
+---
+
+## 🎯 Career Roadmap
+
+### **Short-term Goals (6 months)**
+- [ ] Complete AWS Data Engineer certification
+- [ ] Build real-time data processing pipeline with Kafka
+- [ ] Contribute to 3 open-source data engineering projects
+- [ ] Implement MLOps practices in current projects
+
+### **Medium-term Goals (1-2 years)**
+- [ ] Transition to Senior Data Engineer role
+- [ ] Lead data engineering team initiatives
+- [ ] Speak at technical conferences
+- [ ] Mentor junior engineers
+
+### **Long-term Goals (3-5 years)**
+- [ ] Data Engineering Architecture expertise
+- [ ] Technical leadership in data-driven organizations
+- [ ] Contribute to industry standards and best practices
+- [ ] Build scalable data platforms for enterprise
+
+---
+
+*"Transforming raw data into actionable insights through engineering excellence and continuous learning."*
