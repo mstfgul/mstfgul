@@ -5,7 +5,7 @@
 **Junior Data Engineer** based in Belgium with a background in Philosophy. I focus on building data pipelines, developing machine learning models, and creating AI-powered applications.
 
 - 📍 **Location:** Belgium 🇧🇪
-- 🎓 **Education:** Philosophy Graduate
+- 🎓 **Education:** Bachelor/Master
 - 💼 **Role:** Junior Data Engineer
 - 🚀 **Interests:** Data Engineering, Machine Learning, AI Applications
 
