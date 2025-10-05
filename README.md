@@ -1,237 +1,132 @@
-# 🐍 Mustafa GUL - Junior Data Engineer
+# 👋 Hi, I'm Mustafa GUL
 
-## 👋 About Me
+**Junior Data Engineer** | Philosophy Background → Data Engineering | Belgium 🇧🇪
 
-**Junior Data Engineer** based in Belgium with a background in Philosophy. I focus on building data pipelines, developing machine learning models, and creating AI-powered applications.
+> *"Transforming data into actionable insights through robust pipelines and intelligent automation"*
 
-- 📍 **Location:** Belgium 🇧🇪
-- 🎓 **Education:** Bachelor/Master
-- 💼 **Role:** Junior Data Engineer
-- 🚀 **Interests:** Data Engineering, Machine Learning, AI Applications
+Recent **Junior Data Engineer Intern at MinersAI** with hands-on experience in ETL pipelines, LLM integration, and workflow automation. Currently exploring **n8n automation** and building production-ready data solutions.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 What I'm Working On
 
-### 🐍 **Programming Languages**
-- **Python** 🐍 - Data processing, ML, automation (85%)
-- **SQL** 🗃️ - Database design, queries, optimization (80%)
-- **JavaScript** 🟨 - Web development, API integration (65%)
-
-### 🔧 **Data Engineering Tools**
-- **Apache Spark** ⚡ - Big data processing (60%)
-- **Apache Kafka** 🌊 - Real-time streaming (45%)
-- **Pandas** 🐼 - Data manipulation (85%)
-- **NumPy** 🔢 - Numerical computing (80%)
-- **Apache Airflow** 🌬️ - Workflow orchestration (50%)
-
-### 🗄️ **Databases**
-- **PostgreSQL** 🐘 - Advanced SQL, performance tuning (80%)
-- **MySQL** 🐬 - Database administration (75%)
-- **MongoDB** 🍃 - NoSQL document storage (65%)
-- **Redis** 🔴 - In-memory caching (60%)
-- **SQLite** 🗃️ - Lightweight databases (85%)
-
-### ☁️ **Cloud Platforms**
-- **AWS** ☁️ - S3 📦, RDS 🗄️, EC2 🖥️, Lambda ⚡ (70%)
-- **Google Cloud** 🌤️ - BigQuery 📊, Cloud Functions (55%)
-- **Azure** 🌩️ - Data Factory 🏭, Blob Storage (50%)
-
-### 🤖 **Machine Learning & AI**
-- **TensorFlow** 🧠 - Deep learning frameworks (60%)
-- **Scikit-Learn** 🔬 - Classical ML algorithms (80%)
-- **OpenAI API** 🤖 - Language model integration (75%)
-- **Hugging Face** 🤗 - NLP model deployment (70%)
-
-### 🌐 **Web Development**
-- **Streamlit** 🎨 - Data applications (85%)
-- **FastAPI** ⚡ - API development (70%)
-- **Flask** 🌶️ - Web framework (65%)
-
-### 🛠️ **Development Tools**
-- **Git** 🔀 - Version control (90%)
-- **Docker** 🐳 - Containerization (75%)
-- **VS Code** 💻 - Primary IDE (95%)
-- **Jupyter** 📓 - Data analysis notebooks (90%)
-- **Postman** 📮 - API testing (80%)
+- 🤖 **Workflow Automation**: Building intelligent automation workflows with n8n for data processing and integration
+- 🔧 **Personal Projects**: Developing end-to-end data solutions combining ETL, ML, and automation
+- 📚 Learning: DBT, Snowflake, Kubernetes, and advanced workflow orchestration
+- 🎯 Goal: Securing a Junior/Mid-level Data Engineer position in Belgium
+- 💡 Open to: Full-time opportunities, freelance projects, and collaborations
 
 ---
 
-## 📊 Performance Statistics
+## 💼 Professional Experience
 
-### 📈 **Development Metrics**
-```
-Python Development        ████████████████████████████████████████████████████████████ 85%
-SQL & Database Design     ████████████████████████████████████████████████████████ 80%
-Data Processing           ███████████████████████████████████████████████████████ 75%
-Web Development           ██████████████████████████████████████████████████████ 70%
-Big Data Processing       ████████████████████████████████████████████████ 60%
-Cloud Architecture        ███████████████████████████████████████████████ 55%
-Machine Learning          █████████████████████████████████████████████████████ 65%
-AI Integration            ██████████████████████████████████████████████████████ 70%
-```
+**Junior Data Engineer Intern** @ MinersAI *(Jan 2025 - Mar 2025)*
+- Designed and optimized ETL pipelines for geological data processing with Python and PySpark
+- Integrated LLMs to convert unstructured geological text into structured formats, improving data accessibility by 85%
+- Implemented OCR + LLM solutions for extracting data from geological PDFs and maps
+- Structured geospatial and vector data for AI/ML analysis using Geopandas
+- Collaborated with cross-functional teams on feature implementation and workflow optimization
 
-### 📊 **Project Statistics**
-- **Total Repositories:** 19
-- **Active Projects:** 5
-- **Completed Projects:** 8
-- **Deployed Applications:** 6
-- **Code Coverage:** 78% average
-- **Bug Resolution:** 200+ fixed
-
-### 🎯 **Technology Usage**
-- **Most Used Language:** Python (67.8%)
-- **Database Queries:** 1,200+ written
-- **API Endpoints:** 50+ created
-- **ML Models:** 12 developed
-- **Data Pipelines:** 8 built
-
-### 📅 **Development Activity**
-- **Weekly Commits:** 15-25 per week
-- **Peak Hours:** 20:00 - 24:00
-- **Most Productive Day:** Monday
-- **Code Reviews:** 35+ completed
+**Data Engineer Trainee** @ BeCode *(May 2024 - Dec 2024)*
+- Completed intensive 7-month bootcamp focusing on data pipelines, ETL processes, and cloud platforms
+- Built 8+ real-world projects with production-grade tools (Spark, Airflow, Docker, AWS)
+- Hands-on experience with large-scale datasets and modern data stack technologies
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Stack
 
-### 🎯 **AI-Powered SQL Query Generator**
-**Repository:** `Retrieve-SQL-Data-via-AI`
-- **Tech Stack:** Python 🐍, Streamlit 🎨, OpenAI API 🤖, SQLite 🗃️
-- **Description:** Converts natural language to SQL queries
-- **Performance:** 95% accuracy, <2s response time
-- **Features:** Multi-database support, interactive interface
+**Core Skills**
+- **Languages**: Python • SQL • JavaScript
+- **Data Engineering**: Apache Spark • Apache Airflow • Pandas • PySpark • Geopandas
+- **Workflow Automation**: n8n • Process orchestration • API integrations
+- **Databases**: PostgreSQL • MySQL • MongoDB • Redis • SQLite
+- **Cloud & DevOps**: AWS (S3, RDS, Lambda) • Docker • Git
+- **ML & AI**: Scikit-Learn • TensorFlow • LangChain • OpenAI API • Hugging Face
 
-### 📚 **Document Q&A System**
-**Repository:** `Gemma-Q-A-with-Docs`
-- **Tech Stack:** Python 🐍, Streamlit 🎨, LangChain 🔗, PDF Processing 📄
-- **Description:** AI-powered document analysis platform
-- **Performance:** 100+ pages in 30s, 92% accuracy
-- **Features:** Vector embedding, conversational interface
-
-### 🍷 **Wine Recommendation Engine**
-**Repository:** `WinesRecommendationProject`
-- **Tech Stack:** Python 🐍, Scikit-Learn 🔬, Pandas 🐼, Flask 🌶️
-- **Description:** ML-based wine recommendation system
-- **Performance:** 87% accuracy, 10,000+ wines dataset
-- **Features:** Collaborative filtering, personalized recommendations
-
-### 🏠 **Real Estate Price Prediction**
-**Repository:** `Immo_Eliza_Deployment`
-- **Tech Stack:** Python 🐍, ML 🤖, Flask 🌶️, Docker 🐳, AWS ☁️
-- **Description:** House price prediction with ML deployment
-- **Performance:** 92% accuracy, <200ms response time
-- **Features:** End-to-end pipeline, production monitoring
-
-### 📧 **Temporary Email Service**
-**Repository:** `temp-mail-generator`
-- **Tech Stack:** Python 🐍, FastAPI ⚡, Web Scraping 🕷️
-- **Description:** Disposable email generation service
-- **Performance:** 99.9% uptime, 1000+ daily requests
-- **Features:** API integration, rate limiting
+**Currently Learning**
+- DBT & Snowflake for modern data transformation
+- Kubernetes for container orchestration
+- Azure & advanced AWS services
 
 ---
 
-## 📊 GitHub Analytics
+## 🌟 Featured Projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mstfgul&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstfgul&layout=compact&theme=dark"/>
-</div>
+### 🤖 [AI-Powered SQL Query Generator](https://github.com/mstfgul/Retrieve-SQL-Data-via-AI)
+Natural language to SQL converter using OpenAI API and Streamlit
+- **Impact**: 95% query accuracy, <2s response time
+- **Tech**: Python, Streamlit, OpenAI API, SQLite
+- **Use Case**: Democratizing database access for non-technical users
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstfgul&theme=dark" />
-</div>
+### 📄 [Document Q&A System](https://github.com/mstfgul/Gemma-Q-A-with-Docs)
+AI-powered document analysis with LangChain and vector embeddings
+- **Impact**: Processes 100+ pages in 30 seconds with 92% accuracy
+- **Tech**: Python, Streamlit, LangChain, PDF Processing
+- **Use Case**: Intelligent document search and question answering
 
----
+### 🏠 [Real Estate Price Prediction](https://github.com/mstfgul/Immo_Eliza_Deployment)
+End-to-end ML pipeline deployed on AWS with Flask API
+- **Impact**: 92% prediction accuracy, <200ms response time
+- **Tech**: Python, Flask, Docker, AWS, Scikit-Learn
+- **Use Case**: Production-ready ML model with monitoring
 
-## 🎯 Learning & Development
+### 🍷 [Wine Recommendation Engine](https://github.com/mstfgul/WinesRecommendationProject)
+ML-based collaborative filtering system for wine recommendations
+- **Impact**: 87% accuracy on 10,000+ wine dataset
+- **Tech**: Python, Scikit-Learn, Pandas, Flask
+- **Use Case**: Personalized recommendation system
 
-### 📚 **Current Focus Areas**
-- **Advanced Data Engineering** 🔧
-  - Apache Spark optimization
-  - Real-time streaming with Kafka
-  - Data pipeline architecture
-  
-- **Machine Learning Engineering** 🤖
-  - MLOps practices
-  - Model deployment strategies
-  - Feature engineering
-
-- **Cloud Computing** ☁️
-  - AWS data services certification
-  - Kubernetes orchestration
-  - Infrastructure as Code
-
-### 🎯 **2024 Goals**
-- [ ] Complete AWS Data Engineer certification
-- [ ] Build real-time data pipeline with Kafka
-- [ ] Contribute to 3 open-source projects
-- [ ] Deploy ML model to production
-- [ ] Learn advanced Spark optimization
-- [ ] Master Docker containerization
-
-### 📈 **Skills Development Timeline**
-- **Q3 2024:** AWS certification, Spark mastery
-- **Q4 2024:** Kubernetes, real-time streaming
-- **Q1 2025:** System architecture, team leadership
+### 🔗 [n8n Workflow Automation Projects](https://github.com/mstfgul)
+Intelligent automation workflows for data processing and integration
+- **Tech**: n8n, API integrations, webhooks, scheduled workflows
+- **Use Case**: Automating repetitive data tasks and system integrations
 
 ---
 
-## 🤝 Professional Network
+## 📊 GitHub Stats
 
-### 🌐 **Connect With Me**
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mstfgul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mstfgul&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Key Competencies
+
+✅ **ETL Pipeline Development** - Design, build, and optimize scalable data workflows  
+✅ **Workflow Automation** - n8n orchestration, API integrations, process automation  
+✅ **Data Automation & Orchestration** - Airflow, scheduled jobs, monitoring  
+✅ **Database Design & Optimization** - SQL performance tuning, schema design  
+✅ **Cloud Data Solutions** - AWS S3, RDS, Lambda for scalable architectures  
+✅ **ML Model Development** - From experimentation to production deployment  
+✅ **API Development** - FastAPI, Flask for data services  
+✅ **LLM Integration** - OpenAI API, LangChain for intelligent applications  
+
+---
+
+## 📫 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-gul00/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mstfgul00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mstfgul)
 
-### 🚀 **Available for Collaboration**
-- **Data Engineering Projects** 🔧 - Pipeline development and optimization
-- **Machine Learning Applications** 🤖 - Model development and deployment
-- **Open Source Contributions** 🌟 - Data engineering tools and libraries
-- **Technical Mentoring** 👥 - Knowledge sharing with junior developers
-- **AI Applications** 🧠 - LLM integration and AI-powered solutions
+**Open to opportunities in**: Data Engineering • ML Engineering • Data Pipeline Development • Workflow Automation
+
+**🚀 Available for**: Full-time positions • Freelance projects • Technical collaborations
+
+**💼 Ideal Role**: Junior/Mid-level Data Engineer position where I can leverage my ETL, automation, and ML skills to build scalable data solutions
 
 ---
 
-## 💡 Professional Approach
+## 🌱 Background
 
-### 🎯 **Core Values**
-- **Quality First** - Write clean, maintainable code
-- **Continuous Learning** - Stay updated with latest technologies
-- **Collaboration** - Share knowledge and support team growth
-- **Problem Solving** - Focus on practical solutions
-- **Innovation** - Embrace new technologies responsibly
+With a Master's in Philosophy, I bring unique problem-solving perspectives to data engineering challenges. My transition from philosophy to tech demonstrates adaptability, critical thinking, and a passion for continuous learning.
 
-### 🔧 **Development Workflow**
-- **Version Control** - Git-based workflow with feature branches
-- **Code Quality** - Comprehensive testing and documentation
-- **Deployment** - Containerized applications with monitoring
-- **Performance** - Optimization for speed and scalability
+**Languages**: English (B2) • French (B1)  
+**Location**: Marche-en-Famenne, Belgium 🇧🇪  
+**Work Authorization**: Fully eligible to work in Belgium/EU
 
 ---
 
-## 🎯 Career Vision
-
-### 🚀 **Short-term Goals (6-12 months)**
-- Transition to mid-level Data Engineer
-- Complete AWS certification
-- Lead a data engineering project
-- Contribute to open-source projects
-
-### 🌟 **Medium-term Goals (1-3 years)**
-- Senior Data Engineer position
-- Build and lead engineering teams
-- Design enterprise data architectures
-- Speak at technical conferences
-
-### 🏆 **Long-term Vision (3-5 years)**
-- Principal Engineer / Tech Lead role
-- Impact millions of users with data solutions
-- Research and innovation in data engineering
-- Mentor next generation of engineers
-
----
-
-*"Building data solutions that make a difference, one pipeline at a time." 🚀*
+*"Building robust data solutions with a philosopher's mindset and an engineer's precision"*
