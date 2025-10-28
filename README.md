@@ -4,7 +4,7 @@
 
 > *"Transforming raw data into actionable insights through pipelines, analysis, and intelligent automation"*
 
-Recent **Junior Data Engineer Intern at MinersAI** with hands-on experience across the full data lifecycle: ETL pipelines, exploratory analysis, ML model development, and workflow automation. Currently expanding expertise through Coursera and DataCamp while building production-ready solutions.
+**Junior Data Engineer** with hands-on experience across the full data lifecycle: ETL pipelines, exploratory analysis, ML model development, and workflow automation. Currently expanding expertise through Coursera and DataCamp while building production-ready solutions.
 
 ---
 
